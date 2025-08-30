@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 165c334dc2fc4777a3f6d3cfa220cb9b, type: 3}
+  m_Name: AppSettings
+  m_EditorClassIdentifier: 
+  <GameColors>k__BackingField:
+  - <Color>k__BackingField: {r: 0.64420474, g: 0.19360863, b: 0.19360863, a: 1}
+    <ScoreForLine>k__BackingField: 10
+  - <Color>k__BackingField: {r: 0.093231566, g: 0.35263538, b: 0.79514813, a: 1}
+    <ScoreForLine>k__BackingField: 5
+  - <Color>k__BackingField: {r: 0.94070077, g: 0.94070077, b: 0.94070077, a: 1}
+    <ScoreForLine>k__BackingField: 1
+  <BallPrefab>k__BackingField: {fileID: 5702331085440775986, guid: 0684be6d8eb18b24d95b488dc8841d73, type: 3}
